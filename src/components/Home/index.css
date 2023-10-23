@@ -1,0 +1,23 @@
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.logo {
+  width: 150px;
+}
+.card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.card {
+  list-style: none;
+  width: 180px;
+  margin: 5px;
+}
+.image {
+  width: 180px;
+}
